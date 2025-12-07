@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yugansharora01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yugansharora01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=yugansharora01&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yugansharora01&icon=0&color=0)](https://visitcount.itsvg.in)
